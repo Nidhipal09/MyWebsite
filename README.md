@@ -1,3 +1,3 @@
 portfolio Website
-Link ---> https://github.com/Nidhipal09/MyWebsite
+Link ---> https://nidhipal09.github.io/MyWebsite/
 
